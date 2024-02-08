@@ -24,7 +24,7 @@
         "metismenu": "~2.0.2",
         "pace": "npm:pace-js@~1.0.2",
         "select2": "~4.0.13",
-        "summernote": "~0.8.20",
+        "summernote": "git+https://github.com/blueForman/summernote.git#395bc4716af377ca413aadb526f683700d9923c3",
         "sweetalert": "~1.1.3"
     }
 }
